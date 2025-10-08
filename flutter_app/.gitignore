@@ -1,0 +1,7 @@
+.env
+*.iml
+*.lock
+.idea/
+build/
+*.apk
+*.ipa
